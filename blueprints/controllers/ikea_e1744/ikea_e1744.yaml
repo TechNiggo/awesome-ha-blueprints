@@ -164,9 +164,9 @@ variables:
       click_double: ['1004']
       click_triple: ['1005']
     zha:
-      rotate_left: [move_1_195]
+      rotate_left: [Down_195]
       rotate_stop: [stop]
-      rotate_right: [move_0_195]
+      rotate_right: [Up_195]
       click_short: [toggle]
       click_double: [step_0_1_0]
       click_triple: [step_1_1_0]
